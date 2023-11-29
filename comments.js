@@ -82,5 +82,3 @@ router.delete('/:id', function(req, res){
         }
     });
 });
-//export the router
-module.exports = router;
